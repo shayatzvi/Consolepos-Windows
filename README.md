@@ -14,7 +14,7 @@ If you pin it to your taskbar, it will just open the plain terminal, and not the
 # Update the software
 Updating the software without losing all data is a bit tricky, but I will guide you on how.
 First, copy all of the files such as customers, products, reciepts, with the JSON extension, into somewhere where you can find it later. Next, delete the old folder with the app in it. 
-Then, download the new version. Once you have downloaded it, extract it, find the files you put away earlier and paste those into the new folder. This should work.
+Then, download the new version. Once you have downloaded it, extract it, find the files you put away earlier and paste those into the new folder. If it asks you about replacing, removing, files in that directory, just enter, replace the file. This entire shpiel should work.
 ## DO NOT MOVE A FILE OUT OF THE DIRECTORY, BUT INSTEAD, MOVE THE ENTIRE DIRECTORY ITSELF. 
 This is why we recomend that you only make a SHORTCUT and do not move/copy-n-paste the EXE itself out of the directory.
 If you copy the file into a different directory, the app will not function correctly.
