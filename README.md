@@ -1,4 +1,5 @@
 # How to install the ConsolePos-windows
+###You may need to install the latest .NET runtime to run this application. It is small and easy to install on windows, linux, and mac. We recomend installing the 9 version of .NET [Click here to download .NET runtime for your OS](https://dotnet.microsoft.com/en-us/download)
 ## Download and install the software
 [Click here to download the ZIP](https://github.com/shayatzvi/Consolepos-Windows/archive/refs/tags/master-not-a-branch.zip)
 You must download the ZIP file from this repo, or from my website. If you get it from anywhere else, be advised not to click those links.
